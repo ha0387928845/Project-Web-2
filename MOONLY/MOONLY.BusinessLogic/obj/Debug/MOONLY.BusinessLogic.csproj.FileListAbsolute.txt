@@ -1,0 +1,2 @@
+D:\program my\ASP DotNet\BTL\WebBanHang\MOONLY\MOONLY.BusinessLogic\obj\Debug\MOONLY.BusinessLogic.dll
+D:\program my\ASP DotNet\BTL\WebBanHang\MOONLY\MOONLY.BusinessLogic\obj\Debug\MOONLY.BusinessLogic.pdb

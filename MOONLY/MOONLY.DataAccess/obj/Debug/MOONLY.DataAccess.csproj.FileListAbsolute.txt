@@ -1,0 +1,2 @@
+D:\program my\ASP DotNet\BTL\WebBanHang\MOONLY\MOONLY.DataAccess\obj\Debug\MOONLY.DataAccess.dll
+D:\program my\ASP DotNet\BTL\WebBanHang\MOONLY\MOONLY.DataAccess\obj\Debug\MOONLY.DataAccess.pdb

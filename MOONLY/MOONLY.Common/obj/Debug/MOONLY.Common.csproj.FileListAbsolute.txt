@@ -1,0 +1,2 @@
+D:\program my\ASP DotNet\BTL\WebBanHang\MOONLY\MOONLY.Common\obj\Debug\MOONLY.Common.dll
+D:\program my\ASP DotNet\BTL\WebBanHang\MOONLY\MOONLY.Common\obj\Debug\MOONLY.Common.pdb
